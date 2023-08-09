@@ -1,3 +1,4 @@
 class TicTacToe:
     def __init__(self):
-        self.board
+        self.board = [' ' for _ in range(9)]
+        
