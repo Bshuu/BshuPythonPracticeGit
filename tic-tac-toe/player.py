@@ -38,5 +38,3 @@ class HumanPlayer(Player):
                 print('Invalid sqaure. Try again.')
 
         return val
-
-        #return super().get_move(game)
